@@ -19,7 +19,7 @@ Usage of Tools for attacking targets without prior mutual consent is illegal. It
 
 ### Pengunaan:
 ```
-download as zip file
+download di releases
 extract
 execute
 ```
